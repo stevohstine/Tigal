@@ -1,37 +1,37 @@
-.navbar-toggler[b-r305v0j8yt] {
+.navbar-toggler[b-m6a0248mhf] {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.top-row[b-r305v0j8yt] {
+.top-row[b-m6a0248mhf] {
     height: 3.5rem;
     background-color: rgba(0,0,0,0.4);
 }
 
-.navbar-brand[b-r305v0j8yt] {
+.navbar-brand[b-m6a0248mhf] {
     font-size: 1.1rem;
 }
 
-.oi[b-r305v0j8yt] {
+.oi[b-m6a0248mhf] {
     width: 2rem;
     font-size: 1.1rem;
     vertical-align: text-top;
     top: -2px;
 }
 
-.nav-item[b-r305v0j8yt] {
+.nav-item[b-m6a0248mhf] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
 }
 
-    .nav-item:first-of-type[b-r305v0j8yt] {
+    .nav-item:first-of-type[b-m6a0248mhf] {
         padding-top: 1rem;
     }
 
-    .nav-item:last-of-type[b-r305v0j8yt] {
+    .nav-item:last-of-type[b-m6a0248mhf] {
         padding-bottom: 1rem;
     }
 
-    .nav-item[b-r305v0j8yt]  a {
+    .nav-item[b-m6a0248mhf]  a {
         color: #d7d7d7;
         border-radius: 4px;
         height: 3rem;
@@ -40,22 +40,22 @@
         line-height: 3rem;
     }
 
-.nav-item[b-r305v0j8yt]  a.active {
+.nav-item[b-m6a0248mhf]  a.active {
     background-color: rgba(255,255,255,0.25);
     color: white;
 }
 
-.nav-item[b-r305v0j8yt]  a:hover {
+.nav-item[b-m6a0248mhf]  a:hover {
     background-color: rgba(255,255,255,0.1);
     color: white;
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler[b-r305v0j8yt] {
+    .navbar-toggler[b-m6a0248mhf] {
         display: none;
     }
 
-    .collapse[b-r305v0j8yt] {
+    .collapse[b-m6a0248mhf] {
         /* Never collapse the sidebar for wide screens */
         display: block;
     }

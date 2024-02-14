@@ -1788,40 +1788,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WORKSTATION 1700\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/la/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Tigal\\Tigal\\Tigal\\Client\\Tigal.Client.csproj",
+      "projectUniqueName": "/Users/la/Downloads/Tigal-main/Tigal/Client/Tigal.Client.csproj",
       "projectName": "Tigal.Client",
-      "projectPath": "E:\\Tigal\\Tigal\\Tigal\\Client\\Tigal.Client.csproj",
-      "packagesPath": "C:\\Users\\WORKSTATION 1700\\.nuget\\packages\\",
-      "outputPath": "E:\\Tigal\\Tigal\\Tigal\\Client\\obj\\",
+      "projectPath": "/Users/la/Downloads/Tigal-main/Tigal/Client/Tigal.Client.csproj",
+      "packagesPath": "/Users/la/.nuget/packages/",
+      "outputPath": "/Users/la/Downloads/Tigal-main/Tigal/Client/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\WORKSTATION 1700\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/la/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Tigal\\Tigal\\Tigal\\Shared\\Tigal.Shared.csproj": {
-              "projectPath": "E:\\Tigal\\Tigal\\Tigal\\Shared\\Tigal.Shared.csproj"
+            "/Users/la/Downloads/Tigal-main/Tigal/Shared/Tigal.Shared.csproj": {
+              "projectPath": "/Users/la/Downloads/Tigal-main/Tigal/Shared/Tigal.Shared.csproj"
             }
           }
         }
@@ -1860,7 +1852,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[6.0.20, 6.0.20]"
+            "version": "[6.0.14, 6.0.14]"
           }
         ],
         "frameworkReferences": {
@@ -1868,7 +1860,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

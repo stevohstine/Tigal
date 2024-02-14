@@ -1,40 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Tigal\\Tigal\\Tigal\\Server\\Tigal.Server.csproj": {}
+    "/Users/la/Downloads/Tigal-main/Tigal/Server/Tigal.Server.csproj": {}
   },
   "projects": {
-    "E:\\Tigal\\Tigal\\Tigal\\Client\\Tigal.Client.csproj": {
+    "/Users/la/Downloads/Tigal-main/Tigal/Client/Tigal.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tigal\\Tigal\\Tigal\\Client\\Tigal.Client.csproj",
+        "projectUniqueName": "/Users/la/Downloads/Tigal-main/Tigal/Client/Tigal.Client.csproj",
         "projectName": "Tigal.Client",
-        "projectPath": "E:\\Tigal\\Tigal\\Tigal\\Client\\Tigal.Client.csproj",
-        "packagesPath": "C:\\Users\\WORKSTATION 1700\\.nuget\\packages\\",
-        "outputPath": "E:\\Tigal\\Tigal\\Tigal\\Client\\obj\\",
+        "projectPath": "/Users/la/Downloads/Tigal-main/Tigal/Client/Tigal.Client.csproj",
+        "packagesPath": "/Users/la/.nuget/packages/",
+        "outputPath": "/Users/la/Downloads/Tigal-main/Tigal/Client/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\WORKSTATION 1700\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/la/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Tigal\\Tigal\\Tigal\\Shared\\Tigal.Shared.csproj": {
-                "projectPath": "E:\\Tigal\\Tigal\\Tigal\\Shared\\Tigal.Shared.csproj"
+              "/Users/la/Downloads/Tigal-main/Tigal/Shared/Tigal.Shared.csproj": {
+                "projectPath": "/Users/la/Downloads/Tigal-main/Tigal/Shared/Tigal.Shared.csproj"
               }
             }
           }
@@ -73,7 +66,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.14, 6.0.14]"
             }
           ],
           "frameworkReferences": {
@@ -81,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -90,41 +83,33 @@
         }
       }
     },
-    "E:\\Tigal\\Tigal\\Tigal\\Server\\Tigal.Server.csproj": {
+    "/Users/la/Downloads/Tigal-main/Tigal/Server/Tigal.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tigal\\Tigal\\Tigal\\Server\\Tigal.Server.csproj",
+        "projectUniqueName": "/Users/la/Downloads/Tigal-main/Tigal/Server/Tigal.Server.csproj",
         "projectName": "Tigal.Server",
-        "projectPath": "E:\\Tigal\\Tigal\\Tigal\\Server\\Tigal.Server.csproj",
-        "packagesPath": "C:\\Users\\WORKSTATION 1700\\.nuget\\packages\\",
-        "outputPath": "E:\\Tigal\\Tigal\\Tigal\\Server\\obj\\",
+        "projectPath": "/Users/la/Downloads/Tigal-main/Tigal/Server/Tigal.Server.csproj",
+        "packagesPath": "/Users/la/.nuget/packages/",
+        "outputPath": "/Users/la/Downloads/Tigal-main/Tigal/Server/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\WORKSTATION 1700\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/la/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\Tigal\\Tigal\\Tigal\\Client\\Tigal.Client.csproj": {
-                "projectPath": "E:\\Tigal\\Tigal\\Tigal\\Client\\Tigal.Client.csproj"
+              "/Users/la/Downloads/Tigal-main/Tigal/Client/Tigal.Client.csproj": {
+                "projectPath": "/Users/la/Downloads/Tigal-main/Tigal/Client/Tigal.Client.csproj"
               },
-              "E:\\Tigal\\Tigal\\Tigal\\Shared\\Tigal.Shared.csproj": {
-                "projectPath": "E:\\Tigal\\Tigal\\Tigal\\Shared\\Tigal.Shared.csproj"
+              "/Users/la/Downloads/Tigal-main/Tigal/Shared/Tigal.Shared.csproj": {
+                "projectPath": "/Users/la/Downloads/Tigal-main/Tigal/Shared/Tigal.Shared.csproj"
               }
             }
           }
@@ -139,9 +124,69 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.22, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[6.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[13.18.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.32.3, )"
             }
           },
           "imports": [
@@ -163,33 +208,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Tigal\\Tigal\\Tigal\\Shared\\Tigal.Shared.csproj": {
+    "/Users/la/Downloads/Tigal-main/Tigal/Shared/Tigal.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Tigal\\Tigal\\Tigal\\Shared\\Tigal.Shared.csproj",
+        "projectUniqueName": "/Users/la/Downloads/Tigal-main/Tigal/Shared/Tigal.Shared.csproj",
         "projectName": "Tigal.Shared",
-        "projectPath": "E:\\Tigal\\Tigal\\Tigal\\Shared\\Tigal.Shared.csproj",
-        "packagesPath": "C:\\Users\\WORKSTATION 1700\\.nuget\\packages\\",
-        "outputPath": "E:\\Tigal\\Tigal\\Tigal\\Shared\\obj\\",
+        "projectPath": "/Users/la/Downloads/Tigal-main/Tigal/Shared/Tigal.Shared.csproj",
+        "packagesPath": "/Users/la/.nuget/packages/",
+        "outputPath": "/Users/la/Downloads/Tigal-main/Tigal/Shared/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\WORKSTATION 1700\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/la/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -223,7 +261,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.406/RuntimeIdentifierGraph.json"
         }
       }
     }
